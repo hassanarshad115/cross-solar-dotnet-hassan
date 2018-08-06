@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CrossSolar", "CrossSolar\CrossSolar.csproj", "{D1ACF5CD-101B-4A1C-88B9-252E6D31D81C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CrossSolar.Tests", "CrossSolar.Tests\CrossSolar.Tests.csproj", "{46DBDFDC-F152-42D4-B21A-E7BC8A112D3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1ACF5CD-101B-4A1C-88B9-252E6D31D81C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1ACF5CD-101B-4A1C-88B9-252E6D31D81C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1ACF5CD-101B-4A1C-88B9-252E6D31D81C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1ACF5CD-101B-4A1C-88B9-252E6D31D81C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46DBDFDC-F152-42D4-B21A-E7BC8A112D3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46DBDFDC-F152-42D4-B21A-E7BC8A112D3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46DBDFDC-F152-42D4-B21A-E7BC8A112D3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46DBDFDC-F152-42D4-B21A-E7BC8A112D3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88F64C3C-4228-469E-91C4-E8641A8D1DFE}
+	EndGlobalSection
+EndGlobal
