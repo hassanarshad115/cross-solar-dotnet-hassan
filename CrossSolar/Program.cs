@@ -11,7 +11,7 @@ namespace CrossSolar
         }
 
         public static IWebHost BuildWebHost(string[] args)
-        {
+        { 
             return WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>()
                 .Build();
